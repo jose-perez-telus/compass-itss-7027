@@ -6,7 +6,7 @@ This document provides a comprehensive guide on the operations and procedures as
 Step-by-step guide on how to perfom a rollback correctly
 
 ## Scope
-Compass and FIFA
+Compass
 
 ## Tasks
 
